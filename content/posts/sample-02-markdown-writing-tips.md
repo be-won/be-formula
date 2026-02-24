@@ -5,7 +5,7 @@ date: 2026-02-21T10:00:00+09:00
 draft: false
 slug: "markdown-writing-tips"
 categories: ["writing", "productivity"]
-tags: ["markdown", "writing", "readability", "formatting"]
+tags: ["markdown", "writing", "readability", "formatting", "ed-pick"]
 image: "images/image-01.jpg"
 ---
 

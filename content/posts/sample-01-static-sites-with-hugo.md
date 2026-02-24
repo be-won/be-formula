@@ -12,7 +12,7 @@ imageCaption: "Hugo 로고 및 정적 사이트 개념도"
 
 # 분류 (목록·아카이브·내부 링크)
 categories: ["web", "tools"]
-tags: ["hugo", "static-site", "github-pages", "blog"]
+tags: ["hugo", "static-site", "github-pages", "blog", "popular","feature"]
 
 # SEO·확장 (선택)
 # lastmod: 2026-02-23T12:00:00+09:00   # 수정일, 검색 신선도·업데이트 표시

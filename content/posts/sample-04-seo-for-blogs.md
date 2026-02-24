@@ -5,7 +5,7 @@ date: 2026-02-23T10:00:00+09:00
 draft: false
 slug: "seo-for-blogs"
 categories: ["marketing", "writing"]
-tags: ["seo", "meta-description", "titles", "content"]
+tags: ["seo", "meta-description", "titles", "content", "ed-pick", "popular"]
 image: "images/image-01.jpg"
 ---
 ![이미지 설명](/images/image-02.jpg)

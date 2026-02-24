@@ -1,7 +1,7 @@
 ---
 title: "Theme Customization in Hugo: Override, Don't Edit the Theme"
 description: "How to customize a Hugo theme by overriding templates in your project. Keep theme updates and your changes separate."
-date: 2026-02-26T10:00:00+09:00
+date: 2026-02-24T10:00:00+09:00
 draft: false
 slug: "theme-customization-hugo"
 categories: ["web", "design"]

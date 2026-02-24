@@ -4,9 +4,17 @@ title = 'black formula'
 theme = 'pehtheme-hugo'
 
 # 홈 "Recent Post"에 포스트 표시 (없으면 목록이 비어 있음)
+# 홈 "에디터 픽": 태그로 필터 (homeTag가 있는 포스트 노출)
+# "최신글": 홈에 recentPostsOnHome 개만 노출, View All → /posts/ (날짜순 전체)
+# "인기글": 태그 popular (작동 확인 후 home.html에서 해당 섹션 주석 처리 가능)
 [params]
   mainSections = ['posts']
+  recentPostsOnHome = 6
+  homeTag = 'ed-pick'
+  homeTagTitle = '에디터 픽'
+  homePopularTag = 'popular'
+  homePopularTagTitle = '인기글'
 
-# 페이지당 포스트 수
+# /posts/ 목록 페이지네이션 (View All 클릭 시)
 [pagination]
-  pagerSize = 12
+  pagerSize = 9

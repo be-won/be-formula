@@ -1,0 +1,3 @@
+# 로컬 개발 시에만 적용. View All 등 링크가 루트 기준으로 생성되어 404 방지.
+# 사용: hugo server -D --environment dev
+baseURL = 'http://localhost:1313/'

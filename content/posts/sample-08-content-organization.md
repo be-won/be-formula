@@ -1,7 +1,7 @@
 ---
 title: "Content Organization: How to Structure Your Blog Posts"
 description: "Organize blog content with categories and tags. Best practices for folders, URLs, and discoverability."
-date: 2026-02-27T10:00:00+09:00
+date: 2026-02-24T10:00:00+09:00
 draft: false
 slug: "content-organization"
 categories: ["writing", "productivity"]

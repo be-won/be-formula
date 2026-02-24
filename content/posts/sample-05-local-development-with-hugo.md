@@ -5,7 +5,7 @@ date: 2026-02-24T10:00:00+09:00
 draft: false
 slug: "local-development-hugo"
 categories: ["web", "tools"]
-tags: ["hugo", "local-server", "preview", "development"]
+tags: ["hugo", "local-server", "preview", "development", "ed-pick"]
 image: "images/image-01.jpg"
 ---
 

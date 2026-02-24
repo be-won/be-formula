@@ -5,7 +5,7 @@ date: 2026-02-25T10:00:00+09:00
 draft: false
 slug: "github-actions-deploy"
 categories: ["development", "devops"]
-tags: ["github-actions", "ci-cd", "hugo", "github-pages"]
+tags: ["github-actions", "ci-cd", "hugo", "github-pages", "ed-pick", "popular"]
 image: "images/image-01.jpg"
 ---
 

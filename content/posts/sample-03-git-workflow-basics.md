@@ -5,7 +5,7 @@ date: 2026-02-22T10:00:00+09:00
 draft: false
 slug: "git-workflow-basics"
 categories: ["development", "tools"]
-tags: ["git", "workflow", "version-control", "github"]
+tags: ["git", "workflow", "version-control", "github", "ed-pick"]
 image: "images/image-01.jpg"
 ---
 
