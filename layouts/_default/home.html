@@ -38,7 +38,7 @@
 
 <section class="mb-16">
 
-    {{ $tag := default "best" site.Params.homeTag }}
+    {{ $tag := default "ed-pick" site.Params.homeTag }}
     {{ $tagTitle := default "Best" site.Params.homeTagTitle | default (title $tag) }}
     {{ $tagPage := .Site.GetPage (printf "/tags/%s" $tag) }}
 

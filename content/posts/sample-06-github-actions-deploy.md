@@ -1,7 +1,7 @@
 ---
 title: "GitHub Actions: Deploy Your Hugo Site Automatically"
 description: "Set up GitHub Actions to build and deploy your Hugo site to GitHub Pages on every push. No manual build step."
-date: 2026-02-25T10:00:00+09:00
+date: 2026-02-24T10:00:00+09:00
 draft: false
 slug: "github-actions-deploy"
 categories: ["development", "devops"]
