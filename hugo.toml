@@ -1,4 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://be-won.github.io/be-formula/'
+languageCode = 'ko-kr'
+title = 'black formula'
 theme = 'pehtheme-hugo'
+
+# 홈 "Recent Post"에 포스트 표시 (없으면 목록이 비어 있음)
+[params]
+  mainSections = ['posts']
+
+# 페이지당 포스트 수
+[pagination]
+  pagerSize = 12
